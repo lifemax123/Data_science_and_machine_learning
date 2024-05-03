@@ -12,9 +12,9 @@ The repository is organized into modules, each of which covers a specific topic 
 
 - Module 1: Introduction to data science 
 - Module 2: Numpy and pandas 
-- Module 3: ploting graph - 
+- Module 3: ploting graph - Matolotlib and Seaborn
 - Module 4: SQL (Basic and adv)
-- Module 5: web scraping
+- Module 5: web scraping - BeautifulSoup and Selenium
 - Module 6: Data visualisation (Tableau)
 - Module 7: Statistic
 - Module 8: Introduction to Machine Learning
