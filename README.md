@@ -28,7 +28,7 @@ The repository is organized into modules, each of which covers a specific topic 
 To get started, you'll need to have a basic understanding of python concepts and some experience with Machine leaning field. 
 1. Clone the repository to your local machine
     ```
-    git clone (https://github.com/lifemax123/Data_science_and_-machine_learning.git)
+    git clone https://github.com/lifemax123/Data_science_and_-machine_learning.git
     ```
 2. Navigate to the appropriate module. Each module contains a set of notes and exercises that will help you learn the material.
 
