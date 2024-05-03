@@ -1,3 +1,5 @@
+![image](https://github.com/lifemax123/Data_science_and_-machine_learning/assets/76859897/073fd633-e46f-45f7-a409-e22bce23efe5)
+
 # Coding-Ninjas-Data-science-and-machine-learning
 This repository includes all my codes and leacture which I wrote while learning Data science and machine learning.
 # Coding Ninjas Data science and machine learning
