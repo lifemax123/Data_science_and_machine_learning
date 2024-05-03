@@ -8,7 +8,7 @@ This repository contains all the resources and materials for the Coding Ninjas D
 
 ## Contents
 
-The repository is organized into modules, each of which covers a specific topic in web development. The modules include:
+The repository is organized into modules, each of which covers a specific topic in Data science and machine learning. The modules include:
 
 - Module 1: Introduction to data science 
 - Module 2: Numpy and pandas 
